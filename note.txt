@@ -1,0 +1,67 @@
+ a
+ b
+ i
+ u
+ br
+ ul =  li
+ ol
+ span
+ p
+ h1-h6
+ form
+ input
+ placeholder
+ name
+ fieldset
+ submit
+ reset
+    hr
+
+img 
+div = divison 
+star some css
+external-css = winner
+power of 3 css/ who is powerful and who is useful?
+width:
+height:
+background-color:
+color
+
+class == advance selector
+ parent / child
+id:// skip
+reset code: 
+margin: margin-top, margin-bottom, margin-left, margin-right
+padding: 
+flex: = without paren not work
+justify-content= center,flex-end,flex-start;
+align-items= center, flex-start,flex-end; : height/ exceptional case:
+border:
+border-radius:
+flex-wrap: wrap, no-wrap, 
+flex-direction:  row-reverse, column-reverse, column, row;
+
+commenting: most and most important:
+justify-content= space-between, space-evenly,space-around;/ signature:
+semantic markup:
+
+tex-decoration: none
+font-size: px;
+font-weight: 
+font-style: 
+list-style-type: none:
+
+grid:
+flex:
+
+
+
+
+
+
+
+
+
+
+
+ 
