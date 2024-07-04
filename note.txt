@@ -22,10 +22,10 @@ div = divison
 star some css
 external-css = winner
 power of 3 css/ who is powerful and who is useful?
-width:
-height:
+width: 
+height: 
 background-color:
-color
+color:
 
 class == advance selector
  parent / child
@@ -45,14 +45,13 @@ commenting: most and most important:
 justify-content= space-between, space-evenly,space-around;/ signature:
 semantic markup:
 
-tex-decoration: none
+tex-decoration: none;
 font-size: px;
 font-weight: 
 font-style: 
-list-style-type: none:
+list-style-type: none: 
+flex: 
 
-grid:
-flex:
 
 
 
